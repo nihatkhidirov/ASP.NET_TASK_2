@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mentor_App_Task_2.props" />
+</Project>
